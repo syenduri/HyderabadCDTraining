@@ -3,3 +3,5 @@
 ## Entering GIT
 
 Changes to txt file
+
+adding from git
